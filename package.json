@@ -1,0 +1,25 @@
+{
+  "name": "ErrorX",
+  "version": "0.0.1",
+  "description": "Error Class Extension Module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "error"
+  ],
+  "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jscs": "^0.8.1",
+    "grunt-plato": "^1.3.0",
+    "istanbul": "^0.3.2",
+    "jscs": "^1.7.3",
+    "mocha": "^2.0.1",
+    "should": "^4.3.0",
+    "sinon": "^1.11.1"
+  }
+}
