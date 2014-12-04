@@ -1,6 +1,6 @@
 {
-  "name": "errorx",
-  "version": "0.1.1",
+  "name": "codeflyer-errorx",
+  "version": "0.1.2",
   "description": "Error Class Extension Module",
   "main": "lib/index.js",
   "scripts": {
