@@ -1,6 +1,6 @@
 {
-  "name": "ErrorX",
-  "version": "0.1.0",
+  "name": "errorx",
+  "version": "0.1.1",
   "description": "Error Class Extension Module",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,17 @@
   "keywords": [
     "error"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codeflyer/errorx.git"
+  },
   "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "readme": "errorx\n=======\n\nError Class Extension Module\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/codeflyer/errorx/issues"
+  },
+  "homepage": "https://github.com/codeflyer/errorx",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
